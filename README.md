@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @franksparks
-- 👀 I’m interested in Javascript, Elixir, Python
-- 📫 How to reach me ferranbals@gmail.com
+- 👀 I’m interested in JavaScript, Vue, Elixir
+- 📫 How to reach me: ferranbals@gmail.com
 
 <!---
 franksparks/franksparks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
