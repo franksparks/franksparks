@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @franksparks
-- 👀 I’m interested in JavaScript, Vue, Elixir
-- 📫 How to reach me: ferranbals@gmail.com
+- Project Manager & Business Analyst | Quality Assurance Expert | Scrum Master
+- 👀 I’m interested in JavaScript, Vue, Python, Elixir
+- 📫 How to reach me:
+  - ferranbals@gmail.com
+  - https://www.linkedin.com/in/fbals/
 
 <!---
 franksparks/franksparks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
