@@ -1,8 +1,14 @@
 - 👋 Hi, I’m Ferran Bals -> @franksparks
-- Project Manager & Business Analyst | Quality Assurance Expert | Scrum Master
+
+- 💵 Project Manager & Business Analyst | Quality Assurance Expert | Scrum Master
+
+- 📚 I'm currently studying a Full Stack postgraduate program.
+  - https://www.talent.upc.edu/cat/estudis/formacio/curs/304800/postgrau-full-stack-web-technologies/
+
 - 👀 I’m interested in JavaScript, Vue, Python, Elixir
-  - My portfolio -> https://ferranbals.vercel.app/
-- 📫 How to reach me:
+  - This is my portfolio -> https://ferranbals.vercel.app/
+
+- 📫 This is how to reach me:
   - ferranbals@gmail.com
   - https://www.linkedin.com/in/fbals/
 
