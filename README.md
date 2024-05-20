@@ -4,7 +4,7 @@
 
 - 📚 I'm currently studying a [Full Stack postgraduate program](https://www.talent.upc.edu/cat/estudis/formacio/curs/304800/postgrau-full-stack-web-technologies/)
 
-- 👀 I’m interested in JavaScript, Vue, Python, Elixir...
+- 👀 I’m interested in JavaScript, Vue, React, NextJS...
   - [My portfolio](https://ferranbals.vercel.app/)
 
 - 📫 How to reach me:
