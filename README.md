@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ferran Bals -> [@franksparks](https://github.com/franksparks)
 
-- 💵 Business Analyst | Product Owner | Scrum Master
+- 💵 Business Analyst & Product Owner
 
 - 📚 I'm currently studying a [Full Stack postgraduate program](https://www.talent.upc.edu/cat/estudis/formacio/curs/304800/postgrau-full-stack-web-technologies/)
 
