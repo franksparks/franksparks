@@ -2,7 +2,7 @@
 
 - 💵 Business Analyst, Product Owner & Full Stack Developer.
 
-- 📚 I completed the UPC [Full Stack postgraduate program in Full Stack Web Technologies](https://www.talent.upc.edu/cat/estudis/formacio/curs/304800/postgrau-full-stack-web-technologies/)
+- 📚 I completed the [UPC Postgraduate program in Full Stack Web Technologies](https://www.talent.upc.edu/cat/estudis/formacio/curs/304800/postgrau-full-stack-web-technologies/)
 
 - 👀 I’m interested in JavaScript, Vue, React, NextJS...
   - [My portfolio](https://ferranbals.vercel.app/)
